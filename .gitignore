@@ -1,11 +1,15 @@
-# Ignore .idea folders (for JetBrains IDEs like IntelliJ, PyCharm)
+
+# Ignore .idea folder at the root and in any subdirectories
+**/.idea/
+
 .idea/
 
 # Ignore all .iml files (used by IntelliJ IDEA for project configuration)
 *.iml
 
+
+
 # Ignore any .gitignore file in any directory
 **/.gitignore
 
-# Ignore any .idea folder in any directory
-**/.idea/
+
