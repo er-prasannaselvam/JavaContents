@@ -30,6 +30,7 @@ public class Main {
 //            }
 //            System.out.println();
 //        }
+        System.out.println("diamond");
             for (int row =1;row<=5;row++){
                 for(int space =4;space>=row;space--){
                     System.out.print(" ");
