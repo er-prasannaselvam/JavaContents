@@ -3,16 +3,11 @@
 **/.idea/
 
 
-# Optionally, you can add other files or directories you want to ignore, like:
-*.iml
-       # Ignore all .iml files (used by IntelliJ IDEA)
-**/.gitignore # Ignore any .gitignore files in subdirectories (if needed)
-
-
-
 # Ignore all .iml files (used by IntelliJ IDEA for project configuration)
 *.iml
-*.xml
+
+# Ignore all .xml files (used by IntelliJ IDEA for project configuration in .idea folders)
+*.xml 
 
 
 
