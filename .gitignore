@@ -6,3 +6,6 @@
 
 # Ignore any .gitignore file in any directory
 **/.gitignore
+
+# Ignore any .idea folder in any directory
+**/.idea/
