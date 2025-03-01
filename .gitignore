@@ -1,8 +1,6 @@
 
-# Ignore .idea folder at the root and in any subdirectories
+# Ignore all .idea folders, regardless of their location
 **/.idea/
-
-.idea/
 
 # Ignore all .iml files (used by IntelliJ IDEA for project configuration)
 *.iml
